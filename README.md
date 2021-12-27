@@ -1,7 +1,7 @@
 ### Hi, this is Diego Rivera 👋
 www.diegorivera.com.es
 
-I'm currently working as a tech expert on [Innovation at Telefónica](https://github.com/Telefonica) contributing to private repos for some products such as...
+I'm currently working as a tech expert on [Innovation at Telefónica](https://github.com/Telefonica) contributing to private repositories for some products such as...
 - [Movistar Home](https://aura.telefonica.com/movistar-home)
 - [Smart WiFi app](https://www.movistar.es/particulares/movil/servicios/app-smartwifi/)
 

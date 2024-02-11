@@ -2,6 +2,7 @@
 www.diegorivera.com.es
 
 I'm currently working as a technical product manager on the [Open Gateway innitiative](https://opengateway.telefonica.com/en) at Telefónica in collaboration with other telcos and hyperscalers.
+- Next release: Open Gateway Sandbox on the [Developer Hub](https://opengateway.telefonica.com/en/developer-hub)
 
 I've previously worked as a tech expert on [Innovation at Telefónica](https://github.com/Telefonica) contributing to private repositories for some products such as...
 - [Movistar Home](https://aura.telefonica.com/movistar-home) (Kotlin)

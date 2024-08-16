@@ -2,7 +2,7 @@
 www.diegorivera.com.es
 
 I'm currently working as a technical product manager on the [Open Gateway innitiative](https://opengateway.telefonica.com/en) at Telefónica in collaboration with other telcos and hyperscalers.
-- Next release: Open Gateway Sandbox on the [Developer Hub](https://opengateway.telefonica.com/en/developer-hub)
+- Latest release: Open Gateway Sandbox on the [Developer Hub](https://opengateway.telefonica.com/en/developer-hub)
 
 I've previously worked as a tech expert on [Innovation at Telefónica](https://github.com/Telefonica) contributing to private repositories for some products such as...
 - [Movistar Home](https://aura.telefonica.com/movistar-home) (Kotlin)
@@ -13,5 +13,3 @@ I've previously worked as a tech expert on [Innovation at Telefónica](https://g
 My side projects are:
 - [x] I have released a Mac app for simple task management on sticky notes: [Tildone](https://github.com/diegotid/tildone) on the [Mac App Store](https://apps.apple.com/us/app/tildone/id6473126292)
 - [ ] I am building a mobile app for familiy management (WIP)
-- [ ] I am finishing (actually parked) a [personal banking app](https://github.com/diegotid/family-banking) for my own
-- [x] I developed a [beauty services app](https://github.com/diegotid/beauty-home/blob/main/README.md) for a potential home services business

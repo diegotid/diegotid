@@ -6,7 +6,7 @@ I'm currently working as a technical product manager on the [Open Gateway initia
 - Open Gateway Sandbox on the [Developer Hub](https://opengateway.telefonica.com/en/developer-hub)
 
 I've previously worked as a tech expert on [Innovation at Telefónica](https://github.com/Telefonica) contributing to private repositories for some products such as...
-- [Movistar Home](https://aura.telefonica.com/movistar-home) (Kotlin)
+- [Movistar Home](https://aura.telefonica.com/movistarhomecomandos/movistar-home) (Kotlin)
 - [Smart WiFi app](https://www.movistar.es/particulares/movil/servicios/app-smartwifi/) (Swift)
 
 ...and came there after a long carrier as tech bid engineer at Telefónica Spain on [corporate services](https://www.telefonica.com/en/services/business-services/corporate/) designing solutions such as [Prado Puerta Digital](https://www.museodelprado.es/actualidad/noticia/el-museo-nacional-del-prado-confia-en-telefonica/8e2e93fe-d827-38c6-570f-720fb7b833cf) and [Play Renfe](https://www.renfe.com/es/en/viajar/el-viaje/on-board/playrenfe/que-es-play-renfe).
